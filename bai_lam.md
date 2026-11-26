@@ -1,12 +1,12 @@
 # BÀI LÀM – ĐÁNH GIÁ NĂNG LỰC FRONTEND (K24)
 
 - **Mã đề:** 01
-- **Họ tên:**
-- **Lớp:**
-- **Link repository:**
-- **Hệ điều hành (Windows/macOS):**
+- **Họ tên:** Lê Trung Đông
+- **Lớp:** CNTT3
+- **Link repository:** https://github.com/ptitvn/ktr_dgnl_buoi26-11-26.git
+- **Hệ điều hành (Windows/macOS):** Windows
 - **Mã commit P2 đã nộp trước phút 90 (gõ `git log --oneline -1`):**
-- **Phiên bản Node.js (gõ `node -v`):**
+- **Phiên bản Node.js (gõ `node -v`):** v22.18.0
 
 ## 4.1. Giao diện danh sách sản phẩm
 
@@ -14,10 +14,10 @@
 
 > Chấm trực tiếp trên mã nguồn thư mục officemart_admin. Đánh dấu `[x]` vào các mục đã làm để tự kiểm tra.
 
-- [ ] 4.1.1. Bố cục trang
-- [ ] 4.1.2. Bảng sản phẩm
-- [ ] 4.1.3. Định dạng dữ liệu
-- [ ] 4.1.4. Hiển thị trên điện thoại
+- [x] 4.1.1. Bố cục trang
+- [x] 4.1.2. Bảng sản phẩm
+- [x] 4.1.3. Định dạng dữ liệu
+- [x] 4.1.4. Hiển thị trên điện thoại
 
 ## 4.2. Thêm, sửa, xoá sản phẩm qua API
 
@@ -25,11 +25,11 @@
 
 > Chấm trực tiếp trên mã nguồn thư mục officemart_admin.
 
-- [ ] 4.2.1. Tải danh sách
-- [ ] 4.2.2. Form thêm sản phẩm
-- [ ] 4.2.3. Gửi form
-- [ ] 4.2.4. Sửa sản phẩm
-- [ ] 4.2.5. Xoá sản phẩm
+- [x] 4.2.1. Tải danh sách
+- [x] 4.2.2. Form thêm sản phẩm
+- [x] 4.2.3. Gửi form
+- [x] 4.2.4. Sửa sản phẩm
+- [x] 4.2.5. Xoá sản phẩm
 
 ## 4.3. Tìm kiếm, lọc và phân trang
 
