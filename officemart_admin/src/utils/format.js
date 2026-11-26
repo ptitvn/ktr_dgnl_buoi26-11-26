@@ -11,3 +11,9 @@ export function getCategoryLabel(categoryId, categoriesList = []) {
   if (found) return found.name;
   return categoryNames[categoryId] || categoryId || '—';
 }
+
+export function normalizePage(rawPage) {
+  const parsed = Number(rawPage);
+  if (!Number.isInteger(parsed) || parsed < 1) return 1;
+  return parsed;
+}
